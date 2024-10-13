@@ -1,7 +1,7 @@
 ## The Phishing detection system is built by training a Random forest classification model 
 ### The Trained ML Model  and Dataset is attached.
  
-### The Accuracy Score of the trained ML model is 0.9865 
+### The Accuracy Score of the trained ML model is 0.9865  (98.65)
 
 ### F1 Score : 0.98665
  
